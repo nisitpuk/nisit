@@ -1,0 +1,4 @@
+m|measurement,location|tag|Hong Kong,temp|double,pm|long|0,time|dateTime:RFC3339
+weather,San Francisco,51.9,38,2020-01-01T00:00:00Z
+weather,New York,18.2,,2020-01-01T00:00:00Z
+weather,,53.6,171,2020-01-01T00:00:00Z
