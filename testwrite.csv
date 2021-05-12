@@ -1,4 +1,12 @@
-m|measurement,location|tag|Hong Kong,temp|double,pm|long|0,time|dateTime:RFC3339
-weather,San Francisco,51.9,38,2020-01-01T00:00:00Z
-weather,New York,18.2,,2020-01-01T00:00:00Z
-weather,,53.6,171,2020-01-01T00:00:00Z
+#m|measurement,location|tag|Hong Kong,temp|double,pm|long|0,time|dateTime:RFC3339
+#weather,San Francisco,51.9,38,2020-01-01T00:00:00Z
+#weather,New York,18.2,,2020-01-01T00:00:00Z
+#weather,,53.6,171,2020-01-01T00:00:00Z
+#datatype measurement,tag,double,dateTime:RFC3339
+m,host,used_percent,time
+mem,host1,64.23,2020-01-01T00:00:00Z
+mem,host2,72.01,2020-01-01T00:00:00Z
+mem,host1,62.61,2020-01-01T00:00:10Z
+mem,host2,72.98,2020-01-01T00:00:10Z
+mem,host1,63.40,2020-01-01T00:00:20Z
+mem,host2,73.77,2020-01-01T00:00:20Z
