@@ -1,0 +1,8 @@
+#datatype,string,long,dateTime:RFC3339,dateTime:RFC3339,dateTime:RFC3339,double,string,string,string,string
+#default,_result,,,,,,,,,
+,result,table,_start,_stop,_time,_value,_field,_measurement,shelter,type
+,,11,2021-05-15T18:47:46.649639Z,2020-05-15T19:47:46.649639Z,2020-05-15T18:50:33.262484Z,10,adult,cats,B,tabby
+,,11,2021-05-15T18:47:46.649639Z,2020-05-15T19:47:46.649639Z,2020-05-15T18:51:48.852085Z,11,adult,cats,B,tabby
+,,11,2021-05-15T18:47:46.649639Z,2020-05-15T19:47:46.649639Z,2020-05-15T18:52:31.597721Z,9,adult,cats,B,tabby
+,,11,2021-05-15T18:47:46.649639Z,2020-05-15T19:47:46.649639Z,2020-05-15T18:53:03.635879Z,7,adult,cats,B,tabby
+,,11,2021-05-15T18:47:46.649639Z,2020-05-15T19:47:46.649639Z,2020-05-15T18:59:06.027183Z,10,adult,cats,B,tabby
